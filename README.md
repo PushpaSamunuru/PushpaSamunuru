@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and open-source contributions.  
 - 🌱 I’m currently learning Python,Machine Learning and exploring AI-driven applications.  
 - 💞️ I’m looking to collaborate on full-stack web projects and AI-related research.  
-- 📫 How to reach me: (mailto:pushpasamunuru0901.com)  
+- 📫 How to reach me: (mailto:pushpasamunuru0901@gmail.com)  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love hiking and exploring new places during my free time!  
 
